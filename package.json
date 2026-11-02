@@ -1,0 +1,22 @@
+{
+  "name": "taskflow",
+  "version": "1.0.0",
+  "description": "TaskFlow - A modern, full-stack task management web application built with Node.js, Express, SQLite, and vanilla frontend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "task-manager",
+    "express",
+    "sqlite",
+    "fullstack",
+    "portfolio"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}

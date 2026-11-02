@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Database file (created automatically on server start)
+tasks.db
+tasks.db-journal
+
+# Environment and log files
+.env
+*.log
+npm-debug.log*
+
+# Operating System files
+.DS_Store
+Thumbs.db
